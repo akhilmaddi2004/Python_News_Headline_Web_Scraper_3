@@ -35,9 +35,9 @@ This project is a console-based Python web scraper that collects the latest news
 
 ## 📸 Screenshots
 1. news_scraper.py Code
-
-2. Generated headlines.txt File
-
+![Screenshot](https://github.com/akhilmaddi2004/Python_News_Headline_Web_Scraper_3/blob/main/News_scraper_3/news1.png)
+3. Generated headlines.txt File
+![Screenshot](https://github.com/akhilmaddi2004/Python_News_Headline_Web_Scraper_3/blob/main/News_scraper_3/news_txt.png )
 ## ✔️ Output Example (Terminal)
 Fetching headlines...
 10 headlines extracted successfully.
